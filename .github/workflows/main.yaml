@@ -1,4 +1,4 @@
-name: dpa-hourly
+name: dpa-every-minute
 
 permissions:
   contents: write
