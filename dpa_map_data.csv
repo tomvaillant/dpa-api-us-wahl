@@ -2,7 +2,7 @@ state,trump_score,harris_score,position,seats_republican,seats_democrat,type
 Rhode Island,,,,,,
 Connecticut,,,,,,
 West Virginia,,,,,,
-New Hampshire,,,,,,
+New Hampshire,46.282,53.717,lean_harris,,,trend
 Idaho,,,,,,
 Delaware,,,,,,
 Louisiana,,,,,,
@@ -35,18 +35,18 @@ Wisconsin,,,,,,
 Alabama,,,,,,
 South Carolina,,,,,,
 New Jersey,,,,,,
-Florida,,,,,,
+Florida,51.667,48.332,battleground,,,trend
 Iowa,,,,,,
 Illinois,,,,,,
 Utah,,,,,,
 Vermont,,,,,,
 Missouri,,,,,,
-Indiana,58.161,41.838,lean_trump,,,trend
+Indiana,58.162,41.837,republican,11,,preliminary
 Hawaii,,,,,,
 Georgia,,,,,,
 Arkansas,,,,,,
-Virginia,,,,,,
+Virginia,44.85,55.149,lean_harris,,,trend
 North Carolina,,,,,,
 Nevada,,,,,,
 Oklahoma,,,,,,
-Kentucky,63.238,36.761,lean_trump,,,trend
+Kentucky,63.235,36.764,lean_trump,,,trend
