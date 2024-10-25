@@ -1,52 +1,52 @@
 state,trump_score,harris_score,position,seats_republican,seats_democrat,type
-Rhode Island,39.387,60.612,democrat,,4,preliminary
-Connecticut,39.797,60.202,democrat,,7,preliminary
-West Virginia,69.785,30.214,republican,4,,preliminary
-New Hampshire,46.275,53.724,democrat,,4,preliminary
-Idaho,65.842,34.157,republican,4,,preliminary
-Delaware,40.404,59.595,democrat,,3,preliminary
-Louisiana,59.45,40.549,republican,8,,preliminary
-Alaska,55.229,44.77,lean_trump,,,trend
-Mississippi,58.374,41.625,republican,6,,preliminary
-South Dakota,63.451,36.548,republican,3,,preliminary
-Maryland,32.921,67.078,democrat,,10,preliminary
-Texas,52.835,47.164,republican,40,,preliminary
-New York,38.238,61.761,democrat,,28,preliminary
-Tennessee,61.88,38.119,republican,11,,preliminary
-Montana,58.417,41.582,republican,4,,preliminary
-Maine,43.995,53.103,split_called,1,3,preliminary
-District of Columbia,5.539,94.46,democrat,,3,preliminary
-Washington,40.079,59.92,democrat,,12,preliminary
-Nebraska,58.196,39.196,split_called,4,1,preliminary
-Minnesota,46.365,53.634,democrat,,10,preliminary
-Colorado,43.062,56.937,democrat,,10,preliminary
-Ohio,54.113,45.886,republican,17,,preliminary
-Kansas,57.483,42.516,republican,6,,preliminary
-Wyoming,72.435,27.564,republican,3,,preliminary
-Arizona,49.798,50.201,democrat,,11,preliminary
-North Dakota,67.182,32.817,republican,3,,preliminary
-Massachusetts,32.858,67.141,democrat,,11,preliminary
-California,35.071,64.928,democrat,,54,preliminary
-New Mexico,44.479,55.52,democrat,,5,preliminary
-Michigan,48.577,51.422,democrat,,15,preliminary
-Pennsylvania,49.392,50.607,battleground,,,trend
-Oregon,41.692,58.307,democrat,,8,preliminary
-Wisconsin,49.691,50.308,democrat,,10,preliminary
-Alabama,62.883,37.116,republican,9,,preliminary
-South Carolina,55.934,44.065,republican,9,,preliminary
-New Jersey,41.973,58.026,democrat,,14,preliminary
-Florida,51.666,48.333,republican,30,,preliminary
-Iowa,54.184,45.815,republican,6,,preliminary
-Illinois,41.388,58.611,democrat,,19,preliminary
-Utah,60.71,39.289,republican,6,,preliminary
-Vermont,31.71,68.289,democrat,,3,preliminary
-Missouri,57.84,42.159,republican,10,,preliminary
-Indiana,58.16,41.839,republican,11,,preliminary
-Hawaii,34.999,65.0,democrat,,4,preliminary
-Georgia,49.847,50.152,battleground,,,trend
-Arkansas,64.2,35.799,republican,6,,preliminary
-Virginia,44.851,55.148,democrat,,13,preliminary
-North Carolina,50.658,49.341,battleground,,,trend
-Nevada,48.771,51.228,battleground,,,trend
-Oklahoma,66.939,33.06,republican,7,,preliminary
-Kentucky,63.242,36.757,republican,8,,preliminary
+Rhode Island,39.389,60.61,lean_harris,,,trend
+Connecticut,39.793,60.206,lean_harris,,,trend
+West Virginia,69.786,30.213,republican,4,,preliminary
+New Hampshire,46.282,53.717,lean_harris,,,trend
+Idaho,,,,,,
+Delaware,40.407,59.592,democrat,,3,preliminary
+Louisiana,59.452,40.547,republican,8,,preliminary
+Alaska,,,,,,
+Mississippi,58.372,41.627,lean_trump,,,trend
+South Dakota,63.448,36.551,republican,3,,preliminary
+Maryland,32.925,67.074,democrat,,10,preliminary
+Texas,52.84,47.159,battleground,,,trend
+New York,38.236,61.763,democrat,,28,preliminary
+Tennessee,61.874,38.125,republican,11,,preliminary
+Montana,58.417,41.582,lean_trump,,,trend
+Maine,44.001,53.095,split_lean,1,2,trend
+District of Columbia,5.542,94.457,democrat,,3,preliminary
+Washington,,,,,,
+Nebraska,58.203,39.196,lean_trump,3,,trend
+Minnesota,46.364,53.635,lean_harris,,,trend
+Colorado,43.064,56.935,democrat,,10,preliminary
+Ohio,54.107,45.892,lean_trump,,,trend
+Kansas,57.477,42.522,republican,6,,preliminary
+Wyoming,72.436,27.563,lean_trump,,,trend
+Arizona,49.8,50.199,battleground,,,trend
+North Dakota,67.183,32.816,republican,3,,preliminary
+Massachusetts,32.855,67.144,democrat,,11,preliminary
+California,,,,,,
+New Mexico,44.478,55.521,democrat,,5,preliminary
+Michigan,48.573,51.426,battleground,,,trend
+Pennsylvania,49.394,50.605,battleground,,,trend
+Oregon,,,,,,
+Wisconsin,49.693,50.306,battleground,,,trend
+Alabama,62.881,37.118,lean_trump,,,trend
+South Carolina,55.935,44.064,republican,9,,preliminary
+New Jersey,41.967,58.032,lean_harris,,,trend
+Florida,51.662,48.337,battleground,,,trend
+Iowa,54.187,45.812,lean_trump,,,trend
+Illinois,41.387,58.612,lean_harris,,,trend
+Utah,60.711,39.288,republican,6,,preliminary
+Vermont,31.713,68.286,democrat,,3,preliminary
+Missouri,57.842,42.157,lean_trump,,,trend
+Indiana,58.162,41.837,republican,11,,preliminary
+Hawaii,,,,,,
+Georgia,49.845,50.154,battleground,,,trend
+Arkansas,64.195,35.804,lean_trump,,,trend
+Virginia,44.854,55.145,lean_harris,,,trend
+North Carolina,50.661,49.338,battleground,,,trend
+Nevada,,,,,,
+Oklahoma,66.941,33.058,republican,7,,preliminary
+Kentucky,63.239,36.76,republican,8,,preliminary
