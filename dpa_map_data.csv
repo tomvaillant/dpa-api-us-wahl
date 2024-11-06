@@ -1,52 +1,52 @@
 state,trump_score,harris_score,position,seats_republican,seats_democrat,type
 Rhode Island,,,,,,
 Connecticut,,,,,,
-West Virginia,,,republican,4,,preliminary
-New Hampshire,,,,,,
+West Virginia,52.5,45.1,republican,4,,preliminary
+New Hampshire,44,55.3,lean_harris,,,trend
 Idaho,,,,,,
 Delaware,,,,,,
 Louisiana,,,,,,
 Alaska,,,,,,
 Mississippi,,,,,,
 South Dakota,,,,,,
-Maryland,,,,,,
-Texas,,,,,,
+Maryland,,,democrat,,10,preliminary
+Texas,46.8,51.7,battleground,,,trend
 New York,,,,,,
-Tennessee,,,,,,
+Tennessee,,,republican,11,,preliminary
 Montana,,,,,,
 Maine,,,,,,
-District of Columbia,,,,,,
+District of Columbia,,,democrat,,3,preliminary
 Washington,,,,,,
 Nebraska,,,,,,
 Minnesota,,,,,,
 Colorado,,,,,,
-Ohio,,,,,,
+Ohio,45.9,53.3,lean_harris,,,trend
 Kansas,,,,,,
 Wyoming,,,,,,
 Arizona,,,,,,
 North Dakota,,,,,,
-Massachusetts,,,,,,
+Massachusetts,,,democrat,,11,preliminary
 California,,,,,,
 New Mexico,,,,,,
 Michigan,,,,,,
 Pennsylvania,,,,,,
 Oregon,,,,,,
 Wisconsin,,,,,,
-Alabama,,,,,,
-South Carolina,,,,,,
+Alabama,,,republican,9,,preliminary
+South Carolina,55.2,43.7,lean_trump,,,trend
 New Jersey,,,,,,
-Florida,54.3,44.7,lean_trump,,,trend
+Florida,55.2,43.7,republican,30,,preliminary
 Iowa,,,,,,
 Illinois,,,,,,
 Utah,,,,,,
-Vermont,35.1,62,democrat,,3,preliminary
-Missouri,,,,,,
-Indiana,63.1,35.1,republican,11,,preliminary
+Vermont,36.1,60.9,democrat,,3,preliminary
+Missouri,,,republican,10,,preliminary
+Indiana,62.2,36.1,republican,11,,preliminary
 Hawaii,,,,,,
-Georgia,62.7,36.8,lean_trump,,,trend
+Georgia,55.9,43.5,lean_trump,,,trend
 Arkansas,,,,,,
-Virginia,41.4,56.7,lean_harris,,,trend
+Virginia,45.3,52.8,lean_harris,,,trend
 North Carolina,,,,,,
 Nevada,,,,,,
-Oklahoma,,,,,,
-Kentucky,64,34.4,republican,8,,preliminary
+Oklahoma,,,republican,7,,preliminary
+Kentucky,65.6,32.8,republican,8,,preliminary
