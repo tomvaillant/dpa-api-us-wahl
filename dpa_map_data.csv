@@ -1,18 +1,18 @@
 state,trump_score,harris_score,position,seats_republican,seats_democrat,type
-Rhode Island,46.1,51.2,lean_harris,,,trend
+Rhode Island,46,51.5,lean_harris,,,trend
 Connecticut,,,,,,
-West Virginia,65.6,32.5,republican,4,,preliminary
-New Hampshire,45.1,54.3,lean_harris,,,trend
+West Virginia,68.7,29.3,republican,4,,preliminary
+New Hampshire,45.3,54.1,lean_harris,,,trend
 Idaho,,,,,,
-Delaware,42.2,56.9,lean_harris,,,trend
+Delaware,42,57,lean_harris,,,trend
 Louisiana,,,,,,
 Alaska,,,,,,
 Mississippi,,,,,,
 South Dakota,,,,,,
 Maryland,,,democrat,,10,preliminary
-Texas,51.1,47.5,lean_trump,,,trend
+Texas,52.4,46.2,lean_trump,,,trend
 New York,,,,,,
-Tennessee,76.1,23.1,republican,11,,preliminary
+Tennessee,74.1,25,republican,11,,preliminary
 Montana,,,,,,
 Maine,,,,,,
 District of Columbia,,,democrat,,3,preliminary
@@ -20,8 +20,8 @@ Washington,,,,,,
 Nebraska,,,,,,
 Minnesota,,,,,,
 Colorado,,,,,,
-Ohio,50.3,48.9,lean_trump,,,trend
-Kansas,50.4,48.1,lean_trump,,,trend
+Ohio,51.3,47.9,lean_trump,,,trend
+Kansas,46.5,52,lean_harris,,,trend
 Wyoming,,,,,,
 Arizona,,,,,,
 North Dakota,,,,,,
@@ -29,24 +29,24 @@ Massachusetts,25.4,72.5,democrat,,11,preliminary
 California,,,,,,
 New Mexico,,,,,,
 Michigan,,,,,,
-Pennsylvania,28.3,70.7,lean_harris,,,trend
+Pennsylvania,30.8,68.2,lean_harris,,,trend
 Oregon,,,,,,
 Wisconsin,,,,,,
 Alabama,68.9,30.6,republican,9,,preliminary
-South Carolina,58.3,40.5,republican,9,,preliminary
-New Jersey,43.4,55.1,lean_harris,,,trend
-Florida,55.9,43,republican,30,,preliminary
+South Carolina,59.2,39.6,republican,9,,preliminary
+New Jersey,43.5,54.9,lean_harris,,,trend
+Florida,56,42.9,republican,30,,preliminary
 Iowa,,,,,,
-Illinois,,,,,,
+Illinois,40.6,58.1,lean_harris,,,trend
 Utah,,,,,,
-Vermont,36.2,60.8,democrat,,3,preliminary
-Missouri,54.2,44.9,republican,10,,preliminary
-Indiana,57.8,40.5,republican,11,,preliminary
+Vermont,36.3,60.7,democrat,,3,preliminary
+Missouri,43.1,55.9,democrat,10,,preliminary
+Indiana,59.4,38.8,republican,11,,preliminary
 Hawaii,,,,,,
-Georgia,55.4,44,lean_trump,,,trend
-Arkansas,,,republican,6,,preliminary
-Virginia,48.5,49.6,lean_harris,,,trend
-North Carolina,51.2,47.6,lean_trump,,,trend
+Georgia,52.5,46.9,lean_trump,,,trend
+Arkansas,37.5,60.4,democrat,6,,preliminary
+Virginia,49.3,48.8,lean_trump,,,trend
+North Carolina,54.1,44.8,lean_trump,,,trend
 Nevada,,,,,,
-Oklahoma,72.1,26.7,republican,7,,preliminary
-Kentucky,62.6,35.7,republican,8,,preliminary
+Oklahoma,71.7,27,republican,7,,preliminary
+Kentucky,61.7,36.5,republican,8,,preliminary
