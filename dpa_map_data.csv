@@ -1,52 +1,52 @@
-state,trump_score,harris_score,position,seats_republican,seats_democrat,type
-Rhode Island,44.4,53.4,democrat,,4,preliminary
-Connecticut,,,,,,
-West Virginia,69.7,28.2,republican,4,,preliminary
-New Hampshire,46.1,53.2,lean_harris,,,trend
-Idaho,,,,,,
-Delaware,42,56.7,democrat,,3,preliminary
-Louisiana,70.7,28.3,lean_trump,,,trend
-Alaska,,,,,,
-Mississippi,60.2,38,lean_trump,,,trend
-South Dakota,70.6,27.2,republican,3,,preliminary
-Maryland,35.9,62.1,democrat,,10,preliminary
-Texas,54,44.6,republican,40,,preliminary
-New York,35,65,democrat,,28,preliminary
-Tennessee,67.5,31.3,republican,11,,preliminary
-Montana,,,,,,
-Maine,,,,,,
-District of Columbia,,,democrat,,3,preliminary
-Washington,,,,,,
-Nebraska,45.7,52.8,lean_harris,,,trend
-Minnesota,,,,,,
-Colorado,43.2,54.7,lean_harris,,,trend
-Ohio,54.9,44.2,lean_trump,,,trend
-Kansas,48.9,49.4,lean_harris,,,trend
-Wyoming,80.8,17.4,republican,3,,preliminary
-Arizona,,,,,,
-North Dakota,75.8,22.4,republican,3,,preliminary
-Massachusetts,35.5,61.6,democrat,,11,preliminary
-California,,,,,,
-New Mexico,51.3,47,lean_trump,,,trend
-Michigan,44.8,53.3,lean_harris,,,trend
-Pennsylvania,43.1,56,lean_harris,,,trend
-Oregon,,,,,,
-Wisconsin,50.1,48.4,lean_trump,,,trend
-Alabama,58.9,40.1,republican,9,,preliminary
-South Carolina,59.4,39.4,republican,9,,preliminary
-New Jersey,44.7,53.6,lean_harris,,,trend
-Florida,56.1,42.8,republican,30,,preliminary
-Iowa,44,54.4,lean_harris,,,trend
-Illinois,38.5,60.2,democrat,,19,preliminary
-Utah,,,,,,
-Vermont,35.4,61.6,democrat,,3,preliminary
-Missouri,46,52.9,democrat,10,,preliminary
-Indiana,58.8,39.2,republican,11,,preliminary
-Hawaii,,,,,,
-Georgia,52.7,46.6,lean_trump,,,trend
-Arkansas,54.7,43.2,republican,6,,preliminary
-Virginia,49.4,48.7,lean_trump,,,trend
-North Carolina,51.4,47.4,lean_trump,,,trend
-Nevada,,,,,,
-Oklahoma,73,25.3,republican,7,,preliminary
-Kentucky,63.7,34.6,republican,8,,preliminary
+state,position,seats_republican,seats_democrat,type
+Rhode Island,democrat,,4,preliminary
+Connecticut,battleground,,,
+West Virginia,republican,4,,preliminary
+New Hampshire,battleground,,,
+Idaho,battleground,,,
+Delaware,democrat,,3,preliminary
+Louisiana,battleground,,,
+Alaska,battleground,,,
+Mississippi,battleground,,,
+South Dakota,republican,3,,preliminary
+Maryland,democrat,,10,preliminary
+Texas,republican,40,,preliminary
+New York,democrat,,28,preliminary
+Tennessee,republican,11,,preliminary
+Montana,battleground,,,
+Maine,battleground,,,
+District of Columbia,democrat,,3,preliminary
+Washington,battleground,,,
+Nebraska,battleground,,,
+Minnesota,battleground,,,
+Colorado,battleground,,,
+Ohio,battleground,,,
+Kansas,battleground,,,
+Wyoming,republican,3,,preliminary
+Arizona,battleground,,,
+North Dakota,republican,3,,preliminary
+Massachusetts,democrat,,11,preliminary
+California,battleground,,,
+New Mexico,battleground,,,
+Michigan,battleground,,,
+Pennsylvania,battleground,,,
+Oregon,battleground,,,
+Wisconsin,battleground,,,
+Alabama,republican,9,,preliminary
+South Carolina,republican,9,,preliminary
+New Jersey,battleground,,,
+Florida,republican,30,,preliminary
+Iowa,battleground,,,
+Illinois,democrat,,19,preliminary
+Utah,battleground,,,
+Vermont,democrat,,3,preliminary
+Missouri,republican,10,,preliminary
+Indiana,republican,11,,preliminary
+Hawaii,battleground,,,
+Georgia,battleground,,,
+Arkansas,republican,6,,preliminary
+Virginia,battleground,,,
+North Carolina,battleground,,,
+Nevada,battleground,,,
+Oklahoma,republican,7,,preliminary
+Kentucky,republican,8,,preliminary
