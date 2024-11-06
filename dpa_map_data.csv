@@ -1,8 +1,8 @@
 state,trump_score,harris_score,position,seats_republican,seats_democrat,type
-Rhode Island,,,,,,
+Rhode Island,46.1,51.2,lean_harris,,,trend
 Connecticut,,,,,,
 West Virginia,61.9,36.4,republican,4,,preliminary
-New Hampshire,45.1,54.2,lean_harris,,,trend
+New Hampshire,45.6,53.7,lean_harris,,,trend
 Idaho,,,,,,
 Delaware,,,,,,
 Louisiana,,,,,,
@@ -10,9 +10,9 @@ Alaska,,,,,,
 Mississippi,,,,,,
 South Dakota,,,,,,
 Maryland,,,democrat,,10,preliminary
-Texas,50.3,48.3,battleground,,,trend
+Texas,50.3,48.3,lean_trump,,,trend
 New York,,,,,,
-Tennessee,,,republican,11,,preliminary
+Tennessee,76.1,23.1,republican,11,,preliminary
 Montana,,,,,,
 Maine,,,,,,
 District of Columbia,,,democrat,,3,preliminary
@@ -20,33 +20,33 @@ Washington,,,,,,
 Nebraska,,,,,,
 Minnesota,,,,,,
 Colorado,,,,,,
-Ohio,47.9,51.2,battleground,,,trend
+Ohio,49.5,49.7,lean_harris,,,trend
 Kansas,,,,,,
 Wyoming,,,,,,
 Arizona,,,,,,
 North Dakota,,,,,,
-Massachusetts,,,democrat,,11,preliminary
+Massachusetts,16.4,81.8,democrat,,11,preliminary
 California,,,,,,
 New Mexico,,,,,,
 Michigan,,,,,,
 Pennsylvania,,,,,,
 Oregon,,,,,,
 Wisconsin,,,,,,
-Alabama,76.3,22.7,republican,9,,preliminary
-South Carolina,55.2,43.7,lean_trump,,,trend
-New Jersey,,,,,,
-Florida,55.5,43.5,republican,30,,preliminary
+Alabama,71.3,27.3,republican,9,,preliminary
+South Carolina,58.1,40.8,lean_trump,,,trend
+New Jersey,48.6,50,lean_harris,,,trend
+Florida,55.8,43.2,republican,30,,preliminary
 Iowa,,,,,,
 Illinois,,,,,,
 Utah,,,,,,
-Vermont,36.1,60.9,democrat,,3,preliminary
-Missouri,,,republican,10,,preliminary
-Indiana,62.8,35.5,republican,11,,preliminary
+Vermont,36.2,60.8,democrat,,3,preliminary
+Missouri,71,27.8,republican,10,,preliminary
+Indiana,62.8,35.4,republican,11,,preliminary
 Hawaii,,,,,,
-Georgia,56.5,43,lean_trump,,,trend
+Georgia,55,44.4,lean_trump,,,trend
 Arkansas,,,,,,
-Virginia,46.4,51.7,battleground,,,trend
-North Carolina,,,,,,
+Virginia,47.3,50.9,lean_harris,,,trend
+North Carolina,45.9,52.6,lean_harris,,,trend
 Nevada,,,,,,
-Oklahoma,,,republican,7,,preliminary
-Kentucky,66.3,32.1,republican,8,,preliminary
+Oklahoma,68.6,30.2,republican,7,,preliminary
+Kentucky,62,36.3,republican,8,,preliminary
